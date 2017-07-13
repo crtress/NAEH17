@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.touchscreen.com" resolutions="1x" timestamp="1499799265719">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.touchscreenv2.com" resolutions="1x" timestamp="1499958727678">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3787255459" ref="index"/>
+    <file name="index.css" crc="185549869" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,7 +13,7 @@
     <file name="require.js" crc="3951022091" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="artboard 1@2x.jpg" crc="4294130342" seo="true" ref="index">
+    <file name="artboard 1@2x.jpg" crc="137111049" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="email button-vector smart object.png" crc="3849563580" ref="index">
@@ -40,6 +40,14 @@
     <file name="email button-vector smart object2.png" crc="453464875" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pasted-svg-1692781x153.svg" crc="301558681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 1692781x153_poster_.png" crc="3837934205" ref="index"/>
+    <file name="pasted-svg-275811x62.svg" crc="3912546447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 275811x62_poster_.png" crc="86145958" ref="index"/>
   </folder>
-  <file name="index.html" crc="4072603348" seo="true" mt="1499799066597" redirect="true"/>
+  <file name="index.html" crc="4084656" seo="true" mt="1499958689168" redirect="true"/>
 </manifest>
