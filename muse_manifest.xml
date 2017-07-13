@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.touchscreen.com" resolutions="1x" timestamp="1499799265719">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3787255459" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="artboard 1@2x.jpg" crc="4294130342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email button-vector smart object.png" crc="3849563580" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="community button-normal.png" crc="42034744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="community button.png" crc="4016428609" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="make a call button-vector smart object.png" crc="4144730620" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="make a call button.png" crc="4870441" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="signup button-normal.png" crc="466588" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="signup button-selected.png" crc="3840100706" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="email button-vector smart object2.png" crc="453464875" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4072603348" seo="true" mt="1499799066597" redirect="true"/>
+</manifest>
